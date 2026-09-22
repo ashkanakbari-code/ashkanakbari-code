@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ashkan 👋
 
-<!--
-**ashkanakbari-code/ashkanakbari-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+🐍 Python Developer
+🤖 Interested in Machine Learning & Deep Learning
+🐧 Linux User
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · C · C++ · C# · SQL
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
+Git · GitHub · Linux · Docker · Streamlit
+
+### 🚀 Projects
+
+* PlanetGIS Application
+* Jarvis AI
+* Diabetes Prediction ML
+* Python System Monitor
+* CSV Dashboard
+* Python File Organizer
+
+### 🎯 Currently Learning
+
+Data Structures & Algorithms · Machine Learning · Advanced Python
+
+> Building, learning, and improving one project at a time.
