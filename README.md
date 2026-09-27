@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack
 
-Python · C · C++ · C# · SQL
+Python · C · SQL ·
 PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
 Git · GitHub · Linux · Docker · Streamlit
 
